@@ -2,7 +2,7 @@
 
 首先我们可以安装一个 Aptos 的 Petra 钱包, 搞一个自己的 Aptos 链地址
 
-![image-20230105163451720](/Users/soda/Library/Application Support/typora-user-images/image-20230105163451720.png)
+![image-20230105163451720](http://imagesoda.oss-cn-beijing.aliyuncs.com/Sodaoo/2023-01-05-083814.png)
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-![image-20230105163415425](/Users/soda/Library/Application Support/typora-user-images/image-20230105163415425.png)
+![image-20230105163415425](http://imagesoda.oss-cn-beijing.aliyuncs.com/Sodaoo/2023-01-05-083817.png)
 
 
 
@@ -29,7 +29,7 @@ module my_address::student {  // 使用了 my_address
 
 点击 Playground 左上角的 Test 即可运行测试文件 : 
 
-![image-20230105163655139](/Users/soda/Library/Application Support/typora-user-images/image-20230105163655139.png)
+![image-20230105163655139](http://imagesoda.oss-cn-beijing.aliyuncs.com/Sodaoo/2023-01-05-083823.png)
 
 
 
@@ -57,5 +57,5 @@ module my_address::test_module{
 
 控制台输出 : 
 
-![image-20230105163712840](/Users/soda/Library/Application Support/typora-user-images/image-20230105163712840.png)
+![image-20230105163712840](http://imagesoda.oss-cn-beijing.aliyuncs.com/Sodaoo/2023-01-05-083825.png)
 
