@@ -9,15 +9,16 @@ Move playground 适合在 Web 端做一些快速的学习和验证 , 可配合 M
 
 #### Contents
 
-|      | Title                        | Code                                                         | Mirror                                                       |
-| ---- | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 0x00 | Why Move?                    | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/RlJedleB0o9BfKGJyJSnwra7eRkK93C2c8EIhKB3-ec) |
-| 0x01 | Basic Value Type 基础类型    | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/01-Basic-Value-Type) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/2OcPxVUduAO7SC45R2iWifnkZqGkIX3QsEQb44mUR_k) |
-| 0x02 | Loop 循环                    | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/02-Loop) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/DXZLErU3mhh1DR77sT9z96H1yudCE5FVNDO6_USeaE4) |
-| 0x03 | Struct 结构体                | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/03-Struct) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/oC8X_b2sNZhXLw9DygizgIsp143IxUI32oSymmgLHJY) |
-| 0x04 | tuple & Reference 元组、引用 | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/04-Reference) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/cEyfZZet5KeMH1bf_FOCKMDz81o5got2OqL-TcdiI6o) |
-| 0x05 | Abort & Assert 中止和断言    | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/vljKhk_e31GmGdNoi64_B7CA1NxK8_g4P4thfz64gDQ) |
-| 0x06 | ownership 所有权问题         | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/VH9p6T6kBCoBwYIfORHsyz-7yZEjMYsVT9zrMAcsdk8) |
+|            | Title                           | Code                                                         | Mirror                                                       |
+| ---------- | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 0x00       | Why Move?                       | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/RlJedleB0o9BfKGJyJSnwra7eRkK93C2c8EIhKB3-ec) |
+| 0x01       | Basic Value Type 基础类型       | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/01-Basic-Value-Type) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/2OcPxVUduAO7SC45R2iWifnkZqGkIX3QsEQb44mUR_k) |
+| 0x02       | Loop 循环                       | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/02-Loop) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/DXZLErU3mhh1DR77sT9z96H1yudCE5FVNDO6_USeaE4) |
+| 0x03       | Struct 结构体                   | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/03-Struct) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/oC8X_b2sNZhXLw9DygizgIsp143IxUI32oSymmgLHJY) |
+| 0x04       | tuple & Reference 元组、引用    | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/04-Reference) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/cEyfZZet5KeMH1bf_FOCKMDz81o5got2OqL-TcdiI6o) |
+| 0x05       | Abort & Assert 中止和断言       | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/vljKhk_e31GmGdNoi64_B7CA1NxK8_g4P4thfz64gDQ) |
+| [Practice] | football star 球星卡(AptosEden) |                                                              | /                                                            |
+| 0x06       | ownership 所有权问题            | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/VH9p6T6kBCoBwYIfORHsyz-7yZEjMYsVT9zrMAcsdk8) |
 
 
 

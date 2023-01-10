@@ -1,0 +1,12 @@
+[package]
+name = 'assert'
+version = '1.0.0'
+
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = '23d258d1f2440267f866eeb27f9830be48682af8'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[addresses]
+my_address = '0x82e106dfb8ab3760f1c89bd021e11576355665ea7f62d016d8cae926d9d32ace'
+std = "0x1"
