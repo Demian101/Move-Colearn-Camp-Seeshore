@@ -82,4 +82,5 @@ module my_address::collection {
         let isExists = exists_account(addr);
         print(&isExists);  // [debug] false
     }
+
 }
