@@ -22,7 +22,7 @@ Move playground 适合在 Web 端做一些快速的学习和验证 , 可配合 M
 | 0x07       | signer 签署者                            | /                                                            | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/bfJem0ViDWpk_xetDiUdCwL1O2quII16K_1cAqWDnRQ) |
 | 0x08       | Resource 资源类型                        | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/06-Resource) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/z5rADoZ3dpSemK43OYYjVEHQl3bS_-1IKhrnI4gewXo) |
 | 0x09       | Vector 容器                              | [code](https://github.com/Demian101/Move-Colearn-Camp-Seeshore/tree/main/07-Vector) | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/kncPPsXPhB0xpR8H46irNHKSTHJ_uR1Py-SCwSFeajo) |
-| 0x10       | Generics 泛型  [预计 1.12 上线]          |                                                              |                                                              |
+| 0x10       | Generics 泛型                            |                                                              | [Mirror](https://mirror.xyz/0x65d5b68A7878A987e7A19826A7f9Aa6F5F92e10F/aZpIFBw6LhjnDv71Zw_-Ggynh1_M7NuljKKTRRBdqJE) |
 | 0x11       | Move Patterns 设计模式  [预计 1.14 上线] |                                                              |                                                              |
 | 0x12       | Move 高级数据结构  [预计 1.17 上线]      |                                                              |                                                              |
 

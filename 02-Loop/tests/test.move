@@ -1,7 +1,7 @@
 #[test_only]
 module my_address::test_module{
 
-    use my_address::loop_::{max, diff, sum99, };
+    use my_address::loop_::{max, diff, sum99};
     use std::debug::print;
 
     #[test]
@@ -11,4 +11,5 @@ module my_address::test_module{
         print(&res2);
         print(&res3);
     }
+
 }

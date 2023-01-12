@@ -2,7 +2,7 @@ module my_address::loop_ {
 
     public fun max(a:u64, b:u64): u64 {
         // a>b ? a : b
-        if (a >= b){
+        if (a >= b) {
             a
         } else {
             b
@@ -31,4 +31,5 @@ module my_address::loop_ {
         };     // Attention  `;`
         res
     }
+
 }
