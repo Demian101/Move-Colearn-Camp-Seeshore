@@ -181,3 +181,25 @@ public fun contains<T>(t: &Option<T>, e: &T): bool {
 }
 ```
 
+
+
+
+
+- 参数里的 `(t: &Option<T>`  里的 T 不用加
+
+```rust
+use Std::Vector;
+
+struct Option<T> has drop {
+  vec: vector<T>
+}
+
+public fun get_with_default<T: drop+copy>(t: &Option<T>, default: T): T {
+  if (Vector::is_empty(&t.vec)) {
+    default
+  } else {
+    *Vector::borrow(&t.vec, 0)
+  }
+}
+```
+
